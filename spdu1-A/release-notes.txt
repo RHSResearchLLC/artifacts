@@ -1,2 +1,3 @@
+1.23: Fixed bug: When switching from manual to auto IP, the PDU would still connect to the manual IP address as well as grabbing a new auto IP (would have 2 connections)
 1.22: Added ability to manually set network settings
 
