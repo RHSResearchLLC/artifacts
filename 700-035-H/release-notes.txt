@@ -1,1 +1,1 @@
-1.03: Initial version
+1.08: Initial production release
