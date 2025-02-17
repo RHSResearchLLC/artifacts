@@ -1,1 +1,2 @@
 1.08: Initial production release
+1.09: Tweaked V conversion thresholds. Also improved factory test web pages
