@@ -1,2 +1,4 @@
 1.08: Initial production release
 1.09: Tweaked V conversion thresholds. Also improved factory test web pages
+1.10: Added logging (not released)
+1.11: Reordered outlets, #1 is bottom left, #16 is top right
