@@ -4,3 +4,4 @@
 1.11: Reordered outlets, #1 is bottom left, #16 is top right
 1.12: Added password protection to website and API
 1.13: Fixed 4% (low) error in power reading
+1.14: Fixed typo on status screen. Added software version to log
