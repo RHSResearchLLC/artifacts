@@ -1,0 +1,8 @@
+1.08: Initial production release
+1.09: Tweaked V conversion thresholds. Also improved factory test web pages
+1.10: Added logging (not released)
+1.11: Reordered outlets, #1 is bottom left, #16 is top right
+1.12: Added password protection to website and API
+1.13: Fixed 4% (low) error in power reading
+1.14: Fixed typo on status screen. Added software version to log
+1.15: Fixed website security issue
