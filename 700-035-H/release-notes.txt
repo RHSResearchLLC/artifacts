@@ -6,3 +6,4 @@
 1.13: Fixed 4% (low) error in power reading
 1.14: Fixed typo on status screen. Added software version to log
 1.15: Fixed website security issue
+1.18: Added "revert to dumb": Outlets will turn on 90s after powerup if main controller doesn't boot
