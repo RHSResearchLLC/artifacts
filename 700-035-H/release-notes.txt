@@ -7,3 +7,4 @@
 1.14: Fixed typo on status screen. Added software version to log
 1.15: Fixed website security issue
 1.18: Added "revert to dumb": Outlets will turn on 90s after powerup if main controller doesn't boot
+1.19: "Pulse" (reboot) off time increased to 60s from 10s
